@@ -1,6 +1,6 @@
 # sim2real
 Evaluation data and code for BabyAI experiments in "Unnatural Language
-Processing" by Marzoev et al.
+Processing: Bridging the Gap Between Synthetic and Natural Language Data" (https://arxiv.org/abs/2004.13645) by Marzoev et al.
 
 This code is meant to be used with the BabyAI package by Boisvert et al., with
 code available at https://github.com/mila-iqia/babyai.
